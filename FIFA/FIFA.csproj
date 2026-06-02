@@ -114,11 +114,17 @@
     <Compile Include="ExcluirSelecao.Designer.cs">
       <DependentUpon>ExcluirSelecao.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
+    <Compile Include="Tele Inicial.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Tele Inicial.Designer.cs">
+      <DependentUpon>Tele Inicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarSelecoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarSelecoes.Designer.cs">
+      <DependentUpon>ConsultarSelecoes.cs</DependentUpon>
     </Compile>
     <Compile Include="Menu.cs">
       <SubType>Form</SubType>
@@ -137,8 +143,11 @@
     <EmbeddedResource Include="ExcluirSelecao.resx">
       <DependentUpon>ExcluirSelecao.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Tele Inicial.resx">
+      <DependentUpon>Tele Inicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarSelecoes.resx">
+      <DependentUpon>ConsultarSelecoes.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>

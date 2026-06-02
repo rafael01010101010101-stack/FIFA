@@ -18,7 +18,7 @@ namespace FIFA
 		public string[] nome;
 		public string[] localidade;
 		public int[] totalCopas;
-		string[] grupo;
+		public string[] grupo;
 		public int i;
 		public int contar;
 
@@ -102,12 +102,14 @@ namespace FIFA
 		{
 			try
 			{
-				string query = $"delete from selecao where codigo = '{codigo}'";
-				//executar o comando
-
+				string query = $"delete from selecoes where codigo = '{codigo}'";
 				MySqlCommand sql = new MySqlCommand(query, this.conexao);
-				string resultado = "" + sql.ExecuteNonQuery();//comando da inserção no banco
-				return $"Deletado com sucesso!\n\n{resultado}";
+				int resultado = sql.ExecuteNonQuery();
+
+				if (resultado == 0)
+					return "nada";
+				else
+					return "foi";
 			}
 			catch (Exception erro)
 			{
@@ -119,12 +121,14 @@ namespace FIFA
 		{
 			try
 			{
-				string query = $"update selecao set {campo} = '{novoDado}' where codigo = '{codigo}'";
-				//executar o comando
-
+				string query = $"update selecoes set {campo} = '{novoDado}' where codigo = '{codigo}'";
 				MySqlCommand sql = new MySqlCommand(query, this.conexao);
-				string resultado = "" + sql.ExecuteNonQuery();//comando da inserção no banco
-				return $"Atualizado com sucesso!\n\n{resultado}";
+				int resultado = sql.ExecuteNonQuery();
+
+				if (resultado == 0)
+					return "nada";
+				else
+					return "sucesso";
 			}
 			catch (Exception erro)
 			{

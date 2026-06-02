@@ -14,6 +14,8 @@ namespace FIFA
 	{
 		CadastrarSelecao cadastrarSelecao;
 		AtualizarSelecao atualizarSelecao;
+		ExcluirSelecao excluirSelecao;
+		ConsultarSelecoes consultarSelecoes;
 		public Menu()
 		{
 			InitializeComponent();
@@ -30,5 +32,17 @@ namespace FIFA
 			atualizarSelecao = new AtualizarSelecao();
 			atualizarSelecao.ShowDialog();
 		}
+
+		private void button3_Click(object sender, EventArgs e)
+		{
+			excluirSelecao = new ExcluirSelecao();
+			excluirSelecao.ShowDialog();
+		}// botao de ir pra tela de exluir selecao
+
+		private void button4_Click(object sender, EventArgs e)
+		{
+			consultarSelecoes = new ConsultarSelecoes();
+			consultarSelecoes.ShowDialog();
+		}// botao de ir pra tela de consultar selecao
 	}
 }

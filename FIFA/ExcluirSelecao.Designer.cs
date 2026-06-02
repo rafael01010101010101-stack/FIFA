@@ -39,10 +39,11 @@
 			// 
 			this.button2.BackColor = System.Drawing.Color.White;
 			this.button2.Cursor = System.Windows.Forms.Cursors.Hand;
-			this.button2.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9.75F);
-			this.button2.Location = new System.Drawing.Point(680, 405);
+			this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F);
+			this.button2.Location = new System.Drawing.Point(907, 498);
+			this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
 			this.button2.Name = "button2";
-			this.button2.Size = new System.Drawing.Size(108, 33);
+			this.button2.Size = new System.Drawing.Size(144, 41);
 			this.button2.TabIndex = 17;
 			this.button2.Text = "VOLTAR";
 			this.button2.UseVisualStyleBackColor = false;
@@ -51,19 +52,22 @@
 			// textBox1
 			// 
 			this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.textBox1.Location = new System.Drawing.Point(268, 202);
+			this.textBox1.Location = new System.Drawing.Point(357, 249);
+			this.textBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
 			this.textBox1.Name = "textBox1";
-			this.textBox1.Size = new System.Drawing.Size(279, 23);
+			this.textBox1.Size = new System.Drawing.Size(371, 26);
 			this.textBox1.TabIndex = 19;
+			this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
 			// 
 			// label1
 			// 
 			this.label1.AutoSize = true;
 			this.label1.BackColor = System.Drawing.Color.Transparent;
-			this.label1.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9.75F);
-			this.label1.Location = new System.Drawing.Point(372, 179);
+			this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F);
+			this.label1.Location = new System.Drawing.Point(496, 220);
+			this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
 			this.label1.Name = "label1";
-			this.label1.Size = new System.Drawing.Size(68, 15);
+			this.label1.Size = new System.Drawing.Size(87, 20);
 			this.label1.TabIndex = 18;
 			this.label1.Text = "CODIGO :";
 			// 
@@ -71,26 +75,29 @@
 			// 
 			this.button1.BackColor = System.Drawing.Color.White;
 			this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
-			this.button1.Font = new System.Drawing.Font("Humnst777 Blk BT", 11.25F, System.Drawing.FontStyle.Italic);
-			this.button1.Location = new System.Drawing.Point(307, 277);
+			this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Italic);
+			this.button1.Location = new System.Drawing.Point(409, 341);
+			this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
 			this.button1.Name = "button1";
-			this.button1.Size = new System.Drawing.Size(200, 34);
+			this.button1.Size = new System.Drawing.Size(267, 42);
 			this.button1.TabIndex = 20;
 			this.button1.Text = "EXCLUIR";
 			this.button1.UseVisualStyleBackColor = false;
+			this.button1.Click += new System.EventHandler(this.button1_Click);
 			// 
 			// ExcluirSelecao
 			// 
-			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
 			this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-			this.ClientSize = new System.Drawing.Size(800, 450);
+			this.ClientSize = new System.Drawing.Size(1067, 554);
 			this.Controls.Add(this.button1);
 			this.Controls.Add(this.textBox1);
 			this.Controls.Add(this.label1);
 			this.Controls.Add(this.button2);
 			this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+			this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
 			this.Name = "ExcluirSelecao";
 			this.Text = "ExcluirSelecao";
 			this.ResumeLayout(false);

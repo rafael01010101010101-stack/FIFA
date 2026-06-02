@@ -55,23 +55,29 @@ namespace FIFA
 			}
 
 			int codigo = Convert.ToInt32(textBox1.Text);
+			string msg = "nada";
 
 			if (textBox5.Text != "")
-				this.daoSelecoes.AtualizarSelecao(codigo, "nome", textBox5.Text);
+				msg = this.daoSelecoes.AtualizarSelecao(codigo, "nome", textBox5.Text);
 
 			if (textBox2.Text != "")
-				this.daoSelecoes.AtualizarSelecao(codigo, "localidade", textBox2.Text);
+				msg = this.daoSelecoes.AtualizarSelecao(codigo, "localidade", textBox2.Text);
 
 			if (textBox3.Text != "")
-				this.daoSelecoes.AtualizarSelecao(codigo, "totalCopas", textBox3.Text);
+				msg = this.daoSelecoes.AtualizarSelecao(codigo, "totalCopas", textBox3.Text);
 
 			if (textBox4.Text != "")
-				this.daoSelecoes.AtualizarSelecao(codigo, "grupo", textBox4.Text);
+				msg = this.daoSelecoes.AtualizarSelecao(codigo, "grupo", textBox4.Text);
 
-			MessageBox.Show("Atualizado com sucesso!");
+			if (msg == "nada")
+				MessageBox.Show("Nada foi atualizado, confira as informações inseridas novamente");
+			else if (msg == "foi")
+				MessageBox.Show("Atualizado com sucesso!");
+			else
+				MessageBox.Show(msg);
 
 			LimparCampos();
-		}// botao de atualizar
+		}
 
 		private void button2_Click(object sender, EventArgs e)
 		{
