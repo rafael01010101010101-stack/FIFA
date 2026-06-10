@@ -89,3 +89,5 @@ C:\Users\rafae\source\repos\FIFA\FIFA\obj\Debug\FIFA.csproj.CoreCompileInputs.ca
 C:\Users\rafae\source\repos\FIFA\FIFA\obj\Debug\FIFA.csproj.Up2Date
 C:\Users\rafae\source\repos\FIFA\FIFA\obj\Debug\FIFA.exe
 C:\Users\rafae\source\repos\FIFA\FIFA\obj\Debug\FIFA.pdb
+C:\Users\rafael.balmeida3\source\repos\FIFA\FIFA\obj\Debug\FIFA.ExcluirSelecao.resources
+C:\Users\rafael.balmeida3\source\repos\FIFA\FIFA\obj\Debug\FIFA.ConsultarSelecoes.resources

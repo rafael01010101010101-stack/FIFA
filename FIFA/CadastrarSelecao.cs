@@ -62,9 +62,17 @@ namespace FIFA
 			{
 				string nome = textBox1.Text;
 				string localidade = textBox2.Text;
-				int totalCopas = Convert.ToInt32(textBox3.Text);
+				int totalCopas;
+				try
+				{
+					totalCopas = Convert.ToInt32(textBox3.Text);
+				}
+				catch
+				{
+					MessageBox.Show("Insira um total de copas que seja apenas número.");
+					return;
+				}
 				string grupo = textBox4.Text;
-
 				// INSERIR DENTRO DO BANCO
 				this.daoSelecoes.InserirSelecoes(nome,localidade, totalCopas, grupo);
 				// limpar os campos

@@ -3,40 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\fifa\\fifa\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|solutionrelative:fifa\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\fifa\\fifa\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|solutionrelative:fifa\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\fifa\\fifa\\atualizarselecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|solutionrelative:fifa\\atualizarselecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\fifa\\fifa\\cadastrarselecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\fifa\\cadastrarselecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|solutionrelative:fifa\\cadastrarselecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\fifa\\fifa\\atualizarselecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\fifa\\atualizarselecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|solutionrelative:fifa\\atualizarselecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\fifa\\atualizarselecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|solutionrelative:fifa\\atualizarselecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\fifa\\fifa\\cadastrarselecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|solutionrelative:fifa\\cadastrarselecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\fifa\\excluirselecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|solutionrelative:fifa\\excluirselecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\fifa\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|solutionrelative:fifa\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\fifa\\fifa\\daoselecoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|solutionrelative:fifa\\daoselecoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\fifa\\fifa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|solutionrelative:fifa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\fifa\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|solutionrelative:fifa\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\fifa\\fifa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|solutionrelative:fifa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\fifa\\cadastrarselecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|solutionrelative:fifa\\cadastrarselecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\fifa\\excluirselecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56EEFC40-5A88-4DF5-83C7-E4C873C5ADCB}|FIFA\\FIFA.csproj|solutionrelative:fifa\\excluirselecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\FIFA\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FIFA\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\rafael.balmeida3\\source\\repos\\fifa\\fifa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:fifa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,20 +58,45 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "ExcluirSelecao.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\FIFA\\ExcluirSelecao.cs",
+              "RelativeDocumentMoniker": "FIFA\\ExcluirSelecao.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\FIFA\\ExcluirSelecao.cs",
+              "RelativeToolTip": "FIFA\\ExcluirSelecao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T20:11:58.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExcluirSelecao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\FIFA\\ExcluirSelecao.cs",
+              "RelativeDocumentMoniker": "FIFA\\ExcluirSelecao.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\FIFA\\ExcluirSelecao.cs [Design]",
+              "RelativeToolTip": "FIFA\\ExcluirSelecao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T20:11:18.647Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AtualizarSelecao.cs",
               "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\FIFA\\AtualizarSelecao.cs",
               "RelativeDocumentMoniker": "FIFA\\AtualizarSelecao.cs",
               "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\FIFA\\AtualizarSelecao.cs",
               "RelativeToolTip": "FIFA\\AtualizarSelecao.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAcwEMAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAcwEIAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-02T20:01:21.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AtualizarSelecao.cs [Design]",
               "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\FIFA\\AtualizarSelecao.cs",
               "RelativeDocumentMoniker": "FIFA\\AtualizarSelecao.cs",
@@ -75,20 +108,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CadastrarSelecao.cs",
               "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\FIFA\\CadastrarSelecao.cs",
               "RelativeDocumentMoniker": "FIFA\\CadastrarSelecao.cs",
               "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\FIFA\\CadastrarSelecao.cs*",
               "RelativeToolTip": "FIFA\\CadastrarSelecao.cs*",
-              "ViewState": "AgIAACMAAAAAAAAAAAAIwEUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-02T19:03:39.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CadastrarSelecao.cs [Design]",
               "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\FIFA\\CadastrarSelecao.cs",
               "RelativeDocumentMoniker": "FIFA\\CadastrarSelecao.cs",
@@ -100,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\FIFA\\Menu.cs",
               "RelativeDocumentMoniker": "FIFA\\Menu.cs",
@@ -113,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Menu.cs [Design]",
               "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\FIFA\\Menu.cs",
               "RelativeDocumentMoniker": "FIFA\\Menu.cs",
@@ -125,41 +158,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "DAOSelecoes.cs",
               "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\FIFA\\DAOSelecoes.cs",
               "RelativeDocumentMoniker": "FIFA\\DAOSelecoes.cs",
               "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\FIFA\\DAOSelecoes.cs",
               "RelativeToolTip": "FIFA\\DAOSelecoes.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB4AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-02T17:21:32.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\FIFA\\Form1.cs",
               "RelativeDocumentMoniker": "FIFA\\Form1.cs",
               "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\FIFA\\Form1.cs",
               "RelativeToolTip": "FIFA\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T17:20:58.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T17:20:58.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\FIFA\\Form1.cs",
               "RelativeDocumentMoniker": "FIFA\\Form1.cs",
               "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\FIFA\\FIFA\\Form1.cs [Design]",
               "RelativeToolTip": "FIFA\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T16:56:55.667Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-06-02T16:56:55.667Z"
             }
           ]
         }

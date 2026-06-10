@@ -64,7 +64,19 @@ namespace FIFA
 				msg = this.daoSelecoes.AtualizarSelecao(codigo, "localidade", textBox2.Text);
 
 			if (textBox3.Text != "")
+			{
+				try
+				{
+					Convert.ToInt32(textBox3.Text);
+				}
+				catch
+				{
+					MessageBox.Show("Insira um total de copas que seja apenas número.");
+					return;
+				}
+
 				msg = this.daoSelecoes.AtualizarSelecao(codigo, "totalCopas", textBox3.Text);
+			}
 
 			if (textBox4.Text != "")
 				msg = this.daoSelecoes.AtualizarSelecao(codigo, "grupo", textBox4.Text);
